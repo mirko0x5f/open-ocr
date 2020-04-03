@@ -1,5 +1,5 @@
 package ocrworker
-
+ 
 import (
 	"encoding/json"
 	"strings"
